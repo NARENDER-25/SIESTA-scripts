@@ -11,7 +11,7 @@
    =======================================================================
   Author: Narender Kumar, Computational Nanoionics Research lab,
          Department of Applied Physics, SSGI, Shri Shanakaracharya Technical Campus-Junwani Bhilai (Chhattisgarh) INDIA  
-  Date:   Dec 26,  year 2020                                                    #
+  Date:   Dec 26,  year 2020                                                    
   Give feedback in :    bansalnarender25@gmail.com
 
 2) 
