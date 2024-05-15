@@ -8,10 +8,7 @@
 # Give feedback in :    bansalnarender25@gmail.com                      #
 #=======================================================================#
 #   How to RUN                                                          #
-# 1) ENTER your data range                                              #
-# 2) This script make filename "spin_moment.dat" in which first         #
-#    column is your strain value and 2nd column is stress               #
-# 3) sh spin_moment.sh                                                  #
+# Please refer the readme file                                          #
 #=======================================================================#
 
 for i in `seq -w 5.95959  0.05369  6.22804`  
